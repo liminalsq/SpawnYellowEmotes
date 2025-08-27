@@ -1,5 +1,5 @@
 local california_gurls = {
-	Name = "Cgirls",
+	Name = "cgirls",
 	Time = 0,
 	Keyframes = {
 		{
